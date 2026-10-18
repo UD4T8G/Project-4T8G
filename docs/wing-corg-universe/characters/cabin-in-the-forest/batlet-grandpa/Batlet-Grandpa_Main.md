@@ -4,17 +4,13 @@
 
 ## characteristics
 
-> *빨랫방망이 할아버지는 [욕쟁이 할머니](../../cursing-granny-restaurant/cursing-grandma/Cursing-Grandma_Header.md)의 친동생으로, [엮은이 법](../../../core/wing-corg-universe/Wing-Corg-Universe_Header.md#editor-law)의 기획자이다.*
+> *빨랫방망이 할아버지는 [욕쟁이 할머니](../../cursing-granny-restaurant/cursing-grandma/Cursing-Grandma_Header.md)의 친동생으로, [며느리](../../cursing-granny-restaurant/james-inferno/James-Inferno_Header.md)를 억까하기 위하여 [엮은이 법](../../../core/wing-corg-universe/Wing-Corg-Universe_Header.md#editor-law)을 도입했다.*
 >
-> *그는 항상 숲에서 위기에 빠진 방랑자 앞에 나타나 곰을 한 방에 기절시키며 등장한다.*
+> *하지만 너무 도입해 버리는 바람에 [세계관 이용 약관](./Batlet-Grandpa_Header.md#body)을 협박하여 두르고 다니는 경지에 이르렀다.*
 
-> *빨랫방망이 할아버지는 빨랫방망이로 모든 것을 세탁하며, 방랑자들은 순식간에 알몸이 되어 빨래 건조대에 널린다.*
+> *빨랫방망이 할아버지는 항상 숲에서 위기에 빠진 방랑자 앞에 나타나 곰을 한 방에 기절시키는 모두의 할아버지이다.*
 >
-> ***이걸 맞고 살아남은 손주가 없다고 전해진다.***
-
-> *빨랫방망이 할아버지의 땡콩에 맞은 퍼블릭 도메인은 ALL RIGHTS RESERVED로 변경되고, Permissive는 Authoritarian으로 변경되며, 카피레프트와 카피라이트는 반전된다.*
->
-> ***그는 세계관을 멸망시킬 모두의 할아버지로, [아파치 일반 공중 강습 허가서](./Batlet-Grandpa_Header.md#body)는 빙산의 일각이다.***
+> *방랑자들은 순식간에 알몸이 되어 빨래 건조대에 널리며,* ***이걸 맞고 살아남은 손주가 없다고 전해진다.***
 
 ---
 
