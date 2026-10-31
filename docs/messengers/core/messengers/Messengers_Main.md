@@ -314,7 +314,7 @@
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "우리 덕분에 출세한 줄 알아라! [천국](./Messengers_Header.md#heaven)에서 만날 때는 데스스토커 독이라도 한 잔 구해 와!"
 
-> **버질:** "닥쳐, 너네 돈으로 마시든가 해!"
+> **베르길리우스:** "닥쳐, 너네 돈으로 마시든가 해!"
 >
 > *(웃으며)* "농담이고, 다음에 같이 카페나 가자고!"
 
@@ -839,15 +839,15 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(낑낑거리며)* "죽은 자들을 위한 기도 36,500개는 어디에 둘까요?"
 
-> **(무형성 小) 밀키:** *(경악하며)* "그... 그걸 우리같은 하급 사자들이 어떻게 다뤄?"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "그... 그걸 우리같은 하급 사자들이 어떻게 다뤄?"
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(내려놓으며)* "말 그대로 신성모독이지요... 그동안 버디 씨가 맡아 왔어요."
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(내려놓으며)* "말 그대로 신성모독이지요... 그동안 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 씨가 맡아 왔어요."
 >
 > *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 쓰다듬으며)* "고생 많으셨어요. 제가 도와드려도 일거리가 넘쳐날텐데..."
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "아니야! 망자들이 안 찾아와서 놀기만 했..."
 
-> **(무형성 小) 밀키:** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 쥐어박으며)* "**조용히 해에엣!**"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 쥐어박으며)* "**조용히 해에엣!**"
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(포춘에게 기어가며)* "**끼잉! 끼잉!**"
 
@@ -855,16 +855,22 @@
 >
 > "**하지만 명심하세요, 망자들의 발이 끊기는 것보다 더 위험했던 건 망자들이 갑자기 찾아오는 거였어요.**"
 
-> **(무형성 小) 밀키:** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):를 받으며)* "그건 또 무슨 소리야?"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):를 받으며)* "그건 또 무슨 소리야?"
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "**희고 순수한 네 인애가 인질로 잡힐지도 모른다는 뜻이지.**"
 
-* *미스포춘은 지옥으로 돌아갔고, 밀키는 아직도 돌아오지 않은 버디를 기다리다가 잠들었다.*
-* *그리고 연옥의 안내 데스크에는 어떤 소년이 찾아와서 밀키가 깨어나기를 기다리고 있었다.*
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(얼굴을 붉히며)* "맞아요, 그리고... 이제서야 말하는 건데, 앞으로는 제가 언니라고 불러도 될까요?"
+
+* 기원이든 봉헌 시기든 Meilichia가 Tyche보다 더 오래되었다.
+
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "**뭐라고오오오옥!!!???**"
+
+* *미스포춘은 지옥으로 돌아갔고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 아직도 돌아오지 않은 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)를 기다리다가 잠들었다.*
+* *그리고 연옥의 안내 데스크에는 어떤 소년이 찾아와서 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 깨어나기를 기다리고 있었다.*
 
 > **단테:** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
 
-> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(쾌속 기상)* "**버디 오빠!?** 아... 아니... 안녕, 꼬맹아? 여기는 어쩌다가 왔니?"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(쾌속 기상)* "**[버디](../../characters/purgatorium/buddy/Buddy_Header.md) 오빠!?** 아... 아니... 안녕, 꼬맹아? 여기는 어쩌다가 왔니?"
 
 > **단테:** "뭐라는 거야, 나 꼬맹이 아니거든? 키도 나보다 작으면서!"
 
@@ -876,14 +882,14 @@
 
 > **단테:** *(방방 뛰며)* "**나 꼬맹이 아니라니까!?**"
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "됐고, 밀키는 내 거니까 절대 건드리면 안 돼!"
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "됐고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 내 거니까 절대 건드리면 안 돼!"
 
-> **(무형성 小) 밀키:** *(방방 뛰며)* "**그건 또 무슨 뱀 같은 소리야!?**"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(방방 뛰며)* "**그건 또 무슨 뱀 같은 소리야!?**"
 
 * *둘 다 혼자 놔두면 사고 치는 걸로 유명했고, 둘은 참회의 길을 걸으며 서로에 대해 알아갔다.*
 * *단테는 충동적으로 전장에 뛰어들기도 했고, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테를 덮치기도 했다.*
 
-> **(무형성 中) 밀키:** "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
 
 > **단테:** "너 혼자 막아서고 있길래 그런 거거든? 바보야, 도와줘도 난리야."
 
@@ -891,8 +897,8 @@
 
 > **단테:** "아까는 네가 잘못 안내했으면서! 어, 여기 맞아?"
 
-* *단테는 [천국](./Messengers_Header.md#heaven)의 빛 앞에 섰고, 밀키는 그림자만 바라볼 뿐이었다.*
-* *단테는 발걸음을 멈추고, 망설임이 가득한 눈으로 밀키를 돌아본다.*
+* *단테는 [천국](./Messengers_Header.md#heaven)의 빛 앞에 섰고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 그림자만 바라볼 뿐이었다.*
+* *단테는 발걸음을 멈추고, 망설임이 가득한 눈으로 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 돌아본다.*
 
 > **단테:** "뭐야, 너는 왜 안 와?"
 
