@@ -4,15 +4,13 @@
 
 ## characteristics
 
-> *포춘은 백색 제복과 회색 성벽관을 착용하고 있으며, 미스포춘의 상반신이다.*
+> *포춘은 백색 제복과 회색 성벽관, 회색 포인트의 갈색 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae), 갈색 [코르누코피아](./Misfortune_Header.md#cornucopia)를 착용하고 있으며, 미스포춘의 상반신이다.*
 >
-> *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)에 속박되어 있으며, 죄인을 직접 심판하지 못한다.*
+> *그녀는 흑색 이음새가 드러날 정도로 신체 곳곳이 깨져 있고, 등 뒤의 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)에 속박되어 있으며, 적안이 없는 흑색의 [성흔](../../purgatorium/buddy/Buddy_Header.md#stigmata-eyes)이 양팔을 대신하고 있다.*
 >
-> *그녀는 [코르누코피아](./Misfortune_Header.md#cornucopia)를 들고 있으며, 이것을 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)로 몸에 묶었다.*
+> *그녀는 [코르누코피아](./Misfortune_Header.md#cornucopia)를 들고 있으며, 이것을 잃어버리지 않기 위하여 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)로 몸에 묶었다.*
 >
-> *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)가 올라가 있을 때 냉소적인 격식체를 구사한다.*
->
-> *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)가 내려가 있을 때 상스러운 욕설을 쏟아붓는다.*
+> *그녀는 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)에 의해 냉소적인 격식체를 구사하기도 하고, 상스러운 욕설을 쏟아붓기도 한다.*
 >
 > *그녀는 [스피릿](./Misfortune_Header.md#spirit)의 죽음에 체념한 채, 그의 신체를 묵묵히 정돈해 줄 뿐이다.*
 

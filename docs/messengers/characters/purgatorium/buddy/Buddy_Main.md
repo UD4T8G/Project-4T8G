@@ -6,11 +6,11 @@
 
 > *버디는 은색 철가면, 적색 포인트의 흑색 로브, 적색 벨트의 흑색 긴 바지, 적색 끈의 흑색 부츠를 착용하고 있다.*
 >
-> *그들의 신체는 은색 용광로의 [애퍼래터스](./Buddy_Header.md#apparatus)와 흑색 손에 박힌 적안의 [성흔안](./Buddy_Header.md#stigmata-eyes)으로 구성되어 있다.*
+> *그들은 머리와 손목이 결손되었고, 신체가 은색 용광로의 [애퍼래터스](./Buddy_Header.md#apparatus)로 구성되어 있으며, 흑색 손에 박힌 적안의 [성흔안](./Buddy_Header.md#stigmata-eyes)이 덧붙여져 있다.*
 >
-> *[애퍼래터스](./Buddy_Header.md#apparatus)는 적색 불꽃을 품은 그릇의 [심판의 화살](./Buddy_Header.md#judgment-bolt)을 철창으로 가두고 있으며, 철가면에서는 검은 눈물이 흐른다.*
+> *[애퍼래터스](./Buddy_Header.md#apparatus)는 적색 불꽃을 품은 [심판의 화살](./Buddy_Header.md#judgment-bolt)을 철창으로 가두고 있으며, 철가면에서는 검은 꿀을 떨어뜨리고, 소매에서는 검은 산양유가 흐른다.*
 >
-> *[성흔안](./Buddy_Header.md#stigmata-eyes)은 어깨 뒤에 2개, 머리 뒤에 2개, 머리 앞에 철가면을 잡는 2개가 존재한다.*
+> *[성흔안](./Buddy_Header.md#stigmata-eyes)은 어깨 뒤에 2개, 머리 뒤에 2개, 철가면 앞에 2개, 철가면 뒤에 [고트](./Buddy_Header.md#goat) 1개로 구성되어 있다.*
 >
 > *그들은 선포적인 예사체를 선호하지만, 기도하거나 처음 보는 상대를 달래야 할 때에는 경어체를 사용한다.*
 >
