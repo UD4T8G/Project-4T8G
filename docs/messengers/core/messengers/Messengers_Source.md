@@ -13,16 +13,6 @@
 ## world-building
 
 ```text
-2 MACCABEES 12:44
-  εἰ [ μὴ γὰρ (A, Ed. Göttingen, Rahlfs) / γὰρ μὴ (V, L, Ed. Sixtina) ] τοὺς προπεπτωκότας ἀναστῆναι προσεδόκα, [ περισσὸν καὶ ληρῶδες (A, Ed. Göttingen, Rahlfs) / περισσὸν ἂν ἦν καὶ ληρῶδες (V, L, 𝔐, La/Vulg, Ed. Sixtina) ] ὑπὲρ [ νεκρῶν (A, V, L, Ed. Göttingen) / τῶν νεκρῶν (𝔐) ] [ εὔχεσθαι (A, Ed. Göttingen, Rahlfs) / προσεύχεσθαι (V, L, 𝔐, Ed. Sixtina) ]
-```
-
-* **죽은 자를 위한 기도**
-  - [연옥](./Messengers_Header.md#purgatorium) -- 기본
-* **נְהַר דִּי-נ֥וּר(네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
-  - [연옥](./Messengers_Header.md#purgatorium) -- 연출
-
-```text
 3 ENOCH 16:5
   בְּאוֹתָהּ שָׁעָה בָּא [ עַנְפִיאֵל יְיָ (A, B, L) / עַנְפִיאֵל (C, D) ] [ הַשַּׂר הַנִּכְבָּד (C, D) / הַשַּׂר הַנִּכְבָּד נֶהְדָּר נֶחְמָד נִפְלָא נוֹרָא וְנֶעֱרָץ (A, B) ] מִשְּׁלִיחוּת שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהִכַּנִי [ שִׁשִּׁים פּוּלְסָאוֹת שֶׁל אוֹר (A, B) / שִׁשִּׁים פּוּלְסֵי דְנוּרָא (D, b.Hag.¹⁵ᵃ) / מַכּוֹת אֵשׁ (𝔐ˡᵃᵗᵉʳ) ] [ וְהֶעֱמִידַנִי עַל רַגְלַי (A, B, C, D) / וְהוֹרִידַנִי מִכִּסְאִי (var.) ]
 ```
@@ -221,6 +211,25 @@ Ecce Homo, Zarathustra § 1
   - (위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
 
 ```text
+2 MACCABEES 12:44
+  εἰ [ μὴ γὰρ (A, Ed. Göttingen, Rahlfs) / γὰρ μὴ (V, L, Ed. Sixtina) ] τοὺς προπεπτωκότας ἀναστῆναι προσεδόκα, [ περισσὸν καὶ ληρῶδες (A, Ed. Göttingen, Rahlfs) / περισσὸν ἂν ἦν καὶ ληρῶδες (V, L, 𝔐, La/Vulg, Ed. Sixtina) ] ὑπὲρ [ νεκρῶν (A, V, L, Ed. Göttingen) / τῶν νεκρῶν (𝔐) ] [ εὔχεσθαι (A, Ed. Göttingen, Rahlfs) / προσεύχεσθαι (V, L, 𝔐, Ed. Sixtina) ]
+```
+
+* **죽은 자를 위한 기도**
+  - [연옥](./Messengers_Header.md#purgatorium) -- 기본
+* **נְהַר דִּי-נ֥וּר(네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
+  - [연옥](./Messengers_Header.md#purgatorium) -- 연출
+  - [신곡](./Messengers_Main.md#comedy) -- 죽은 자를 위한 기도
+
+```text
+3 ENOCH 9:4
+  כמלוא עולם וקבע בי שלוש מאות ששים וחמשת אלפים עינים.
+```
+
+* **365,000개의 눈**
+  - [신곡](./Messengers_Main.md#comedy) -- "죽은 자를 위한 기도 365,000개"
+
+```text
 1 ENOCH 41:9
   እስመ፡መልአክ፡ኢይከልእ፡ወሥልጣን፡ኢይክል፡ከሊአ፡እስመ፡መኰንን፡ለኵሎሙ፡ይሬኢ፡ወለኵሎሙ፡በቅድሜሁ፡ውእቱ፡ይኴንን።
 ```
@@ -241,7 +250,7 @@ MEGILLAH 10b, SANHEDRIN 39b
 
 > *내 손으로 만든 피조물들이 바다에 빠져 죽어가고 있는데, 너희가 내 앞에서 감히 찬가를 부르느냐?*
 
-* **홍해가 갈라지고(애굽군이 수장되어 천사들이 기쁨의 찬가를 부르려던 때)**
+* **홍해가 갈라지고 애굽군이 수장되어 천사들이 기쁨의 찬가를 부르려던 때**
   - [심판](./Messengers_Header.md#judgment) -- 기본
   - [심판의 날](./Messengers_Main.md#judgment-day) -- 기본
 * **REVELATION 22:13**

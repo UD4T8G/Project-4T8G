@@ -837,7 +837,7 @@
 * *망자들의 발이 끊긴 연옥의 안내 데스크에는 (무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md) 혼자서 지루한 듯 턱을 괴고 있다.*
 * *그리고 연옥의 경계에서는 누군가 미끄러지듯 힘겹게 기어오고 있었다.*
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(낑낑거리며)* "죽은 자들을 위한 기도 36,500개는 어디에 둘까요?"
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(낑낑거리며)* "죽은 자를 위한 기도 365,000개는 어디에 둘까요?"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "그... 그걸 우리 같은 하급 사자들이 어떻게 다뤄?"
 
@@ -865,7 +865,7 @@
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "**뭐라고오오오옥!!!???**"
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 보러 가며)* "몰랐냐, 새꺄?"
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 보러 가며)* "몰랐냐, 새꺄?"
 
 * *미스포춘은 지옥으로 돌아갔고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 아직도 돌아오지 않은 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)를 기다리다가 잠들었다.*
 * *그리고 연옥의 안내 데스크에는 어떤 소년이 찾아와서 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 깨어나기를 기다리고 있었다.*
@@ -880,11 +880,11 @@
 
 > **단테:** (무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 볼을 잡아당기며) "거기 뱀아," (**(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "그... 그만!") "이거 사자 맞아?"
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "장엄 복수 써서 사자들이라고 불러야 해, 꼬맹아."
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽으며)* "장엄 복수 써서 사자들이라고 불러야 해, 꼬맹아."
 
 > **단테:** *(방방 뛰며)* "**나 꼬맹이 아니라니까!?**"
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "됐고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 내 거니까 절대 건드리면 안 돼!"
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽으며)* "됐고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 내 거니까 절대 건드리면 안 돼!"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(방방 뛰며)* "**그건 또 무슨 뱀 같은 소리야!?**"
 
@@ -899,14 +899,14 @@
 
 > **단테:** *(경악하며)* "**뭐라고오오오옥!!!???**"
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "와, 뭐 저런 꽃뱀이 다 있나!"
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽으며)* "와, 뭐 저런 꽃뱀이 다 있나!"
 
 * *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 철부지였고, (무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 뻔뻔했으며, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 재앙이었다.*
 * *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 길을 자주 잃었고, 무리해서 자주 다쳤으며, 그만큼 단테의 참회 기간이 늘어났다.*
 
 > **단테:** *(씩씩거리며)* "내가 왜 하필 이런 사자를 만나서 고생이냐고..."
 
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자들을 위한 기도를 읽으며)* "어허, 사자들이라고 해야지!"
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽으며)* "어허, 사자들이라고 해야지!"
 
 > **단테:** *(방방 뛰며)* "**그거나 그거나 상관없잖아! 제발 나 좀 천국에 보내 줘!**"
 
