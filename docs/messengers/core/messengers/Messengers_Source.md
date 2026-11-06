@@ -178,15 +178,17 @@ Kawān, Text G:1-11
 * **사해 문서 판본에 없는, 마니교 판본의 거인의 서**
   - [철거](./Messengers_Main.md#demolition) -- "땅에 너무 가깝게 날았군요..."
 * **JUBILEES Mastema**
-  - [철거](./Messengers_Main.md#demolition) -- *마스테마*
+  - [철거](./Messengers_Main.md#demolition) -- "마스테마"
 * **ECCLESIASTES 1:2**
   - [재탄생](./Messengers_Main.md#rebirth) -- *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
-* **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
-  - (미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)
+* **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**  
+**κεστός ἱμάς**
+  - **(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
 * **[Mater Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
-  - (어머니) [밀키](../../characters/purgatorium/milky/Milky_Header.md)
+  - **(어머니) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
 * **[Dios Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
-  - (하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
+* **[Ἀστραπή](../../characters/hell/boss/Boss_Source.md)**
+  - **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)**
 
 ```text
 1 ENOCH 71:14
@@ -207,8 +209,11 @@ Ecce Homo, Zarathustra § 1
 ```
 
 * **Übermensch**  
-**[Dionysos Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
-  - (위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)
+**[Dionysos Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**  
+**θύρσος**
+  - **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)**
+* **Aphrodite와 Dionysos의 관계**
+  - [재탄생](./Messengers_Main.md#rebirth) -- *(기병 전술)*
 
 ```text
 2 MACCABEES 12:44
@@ -219,7 +224,10 @@ Ecce Homo, Zarathustra § 1
   - [연옥](./Messengers_Header.md#purgatorium) -- 기본
 * **נְהַר דִּי-נ֥וּר(네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
   - [연옥](./Messengers_Header.md#purgatorium) -- 연출
-  - [신곡](./Messengers_Main.md#comedy) -- 죽은 자를 위한 기도
+  - [신곡](./Messengers_Main.md#comedy) -- "죽은 자를 위한 기도"
+* **Pschent를 쓰고 Thyrsus와 Caduceus를 들고 있는 [Agathodaemon](../../characters/hell/misfortune/Misfortune_Source.md)**  
+  - [재탄생](./Messengers_Main.md#rebirth) -- *(티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole))*
+  - [신곡](./Messengers_Main.md#comedy) -- *(죄악이 흥건한 티르소스-카두케우스)*
 
 ```text
 3 ENOCH 9:4

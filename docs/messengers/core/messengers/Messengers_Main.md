@@ -199,7 +199,7 @@
 >
 > *(글리치로 인해 머리를 부여잡으며)* "고마우면 누나라고 부르든가... 으윽..."
 
-* *기원은 Vediovis가 더 오래되었지만, 봉헌 시기는 Meilichia가 더 오래되었다.*
+* *기원은 Vediovis (8th century B.C.) 가 Meilichia (6th century B.C.) 보다 더 오래되었지만, 봉헌 시기는 Meilichia (6th century B.C.) 가 Vediovis (2th century B.C.) 보다 더 오래되었다.*
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(손을 들고 기겁하며)* "**피난처!** 아니, 없어요... 누나..."
 
@@ -558,7 +558,7 @@
 >
 > *(글리치가 튀며 관절이 반대로 꺾이고, 끝내 눈물을 터뜨리며)* "오빠라는 것들이 다들 책임감만 강해 가지고... 가끔은 누나한테 기댈 줄도... 알아야지..."
 
-* *기원이든 봉헌 시기든 \*Dyēus Ph₂tḗr가 Meilichia보다 더 오래되었다.*
+* *기원과 봉헌 시기 모두* **\*Dyēus Ph₂tḗr (45th century B.C.)** *가 Meilichia (6th century B.C.) 보다 더 오래되었다.*
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 빼앗아 강제로 수복시키며)* "허, 그건 제가 해야 할 소리 아닙니까? 물론... 저도 할 말은 없군요."
 
@@ -711,9 +711,9 @@
 * *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 두 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 인도를 따라 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core) 공간 심층부까지 걸어 들어갔다.*
 * *그곳에는 수많은 에피테트의 [밀키](../../characters/purgatorium/milky/Milky_Header.md)들이 (무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 기다리고 있었다.*
 
-> **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "네가 바로 의를 위하여 태어난 인자이니라."
+> **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(폭풍을 가르고 도래하며)* "네가 바로 의를 위하여 태어난 인자이니라."
 
-> **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "좋아, 그런데 그 인자가 필멸자 말하는 거야, 아니면 진짜로 그 사람의 아들 말하는 거야?"
+> **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(티르소스 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 짚고 도래하며)* "좋아, 그런데 그 인자가 필멸자 말하는 거야, 아니면 진짜로 그 사람의 아들 말하는 거야?"
 
 > **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "당연히 필멸자 말하는 거지, 쟤가 뭐 그리스도라도 되는 줄 아나?"
 
@@ -723,7 +723,7 @@
 
 > **(어머니) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core) 내부에서 가장 커다란 자리를 제시하며)* "이것은 내부의 존재들이 외부의 존재들을 위하여 준비한 선물이란다..."
 
-* *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 자리에 앉아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 에너지를 받기 시작하였고, 형체가 서서히 회복되었다.*
+* *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 자리에 앉아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 [날개](./Messengers_Header.md#wings) 에너지를 받기 시작하였고, 형체가 서서히 회복되었다.*
 * *이곳은 [밀키](../../characters/purgatorium/milky/Milky_Header.md)만을 위한 자리이고, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)를 만나기 전부터 존재했으며, 지극히 당연했던 자리였다.*
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** '나, 이렇게 행복해도 되는 걸까?'
@@ -739,22 +739,22 @@
 
 > **(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 뒤로 숨기며)* "**오히려 너희들이야말로 위선자들 아니야?**"
 >
-> *(케스토스 히마스를 꺼내며)* "**너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?**"
+> *(케스토스 히마스 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개한 뒤 (위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 목에 리드 로프처럼 걸고 올라타며)* "**너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?**"
 >
-> *((위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 목에 리드 로프처럼 걸고 올라타며)* "**이렇게 순수한 아이를 사지로 내몰고도 그런 말이 나와?**"
+> *(티르소스 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)에 카두케우스 형태의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 두 마리를 엮고 티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개하며)* "**이렇게 순수한 아이를 사지로 내몰고도 그런 말이 나와?**"
 
 * *(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 리드 스킬은 마치 무형성을 정확히 알고 있는 것처럼 기하학적으로 아름다웠다.*
 * *(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 광기는 수많은 글리치를 일으켰지만, 리드 스킬에 의해 변칙적인 전술로 거듭났다.*
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "눈으로 따라갈 수가 없어... **저건 도대체 무슨 전술이지?**"
 
-> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(패링 대거 형태로 쳐내며)* "꿀을 떨어뜨리며... 기름보다 미끄러우나..."
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(패링 대거 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 쳐내며)* "꿀을 떨어뜨리며... 기름보다 미끄러우나..."
 >
-> *(다른 머리를 꺼내고 투핸디드 소드 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개하며)* "**나중은 쑥같이 쓰고 두 날 가진 칼 같이 날카로우며!**"
+> *(다른 머리를 꺼내고 투핸디드 소드 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개하며)* "**나중은 쑥같이 쓰고 두 날 가진 칼 같이 날카로우며!**"
 
-* *(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 천천히 그들의 전술을 읽더니 순식간에 대응하기 시작하였다.*
+* *(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 천천히 그들의 기병 전술을 읽더니 순식간에 대응하기 시작하였다.*
 
-> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *((무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 격려하며)* "안 쓰는 데는 이유가 다 있어! 요새 누가 기병을 써?"
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *((무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 격려하며)* "안 쓰는 데는 이유가 다 있어! **요새 누가 기병 전술을 써?**"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "하지만..."
 
@@ -764,13 +764,14 @@
 
 > **(어머니) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "모든 것은 네게 달려 있으니, 우리는 무형성의 부산물일 뿐이란다."
 
-* *(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 제압한 뒤, 물고 있던 티르소스를 겨누고 있었다.*
+* *(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)가 격려하는 사이에 휘감아서 제압하였다.*
+* *(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)에게 티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 겨누고 있었다.*
 
-> **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *((미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)에게 아스트라페를 던지며)* "**그대들은 전쟁 영웅께 예의를 갖춰라!**"
+> **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *((미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)에게 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape) 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 던지며)* "**그대들은 전쟁 영웅께 예의를 갖춰라!**"
 >
 > *((파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)에게 고개를 숙이며)* "실례를 범하였습니다. 내부의 존재들은 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 주인을 섬깁니다."
 
-> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(멀티폴을 거두며)* "**세상에나, 규율 교육을 어떻게 해 놓은 거야?**"
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 거두며)* "**세상에나, 규율 교육을 어떻게 해 놓은 거야?**"
 >
 > *((무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 쳐다보며)* "됐고, 외부의 존재들 또한 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)의 주인을 섬긴다."
 
@@ -786,7 +787,7 @@
 >
 > "물론 외부의 존재들과 잘 어울린다는 것도 아니야, 하지만..."
 
-> **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(티르소스로 바닥을 두드리며)* "다들 알아들었지? 해산하자고!"
+> **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(티르소스 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 바닥을 두드리며)* "다들 알아들었지? 해산하자고!"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "잠시만... 아직 다 못 끝냈는데..."
 
@@ -853,7 +854,7 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 품에 안으며)* "글쎄요, 피조 세계에 무슨 일이라도 생긴 걸까요?"
 >
-> "**하지만 명심하세요, 망자들의 발이 끊기는 것보다 더 위험했던 건 망자들이 갑자기 찾아오는 거였어요.**"
+> *([코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)에서 죄악이 흥건한 티르소스-카두케우스를 꺼내보며)* "**하지만 명심하세요, 망자들의 발이 끊기는 것보다 더 위험했던 건 망자들이 갑자기 찾아오는 거였어요.**"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 받으며)* "그건 또 무슨 소리야?"
 
@@ -861,7 +862,8 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(얼굴을 붉히며)* "맞아요, 그리고... 이제야 말하는 건데, 앞으로는 제가 언니라고 불러도 될까요?"
 
-* 기원이든 봉헌 시기든 Meilichia가 Tyche보다 더 오래되었다.
+* *기원과 봉헌 시기 모두 Meilichia (6th century B.C.) 가 Agathos Daimon (5th century B.C.) 보다 더 오래되었다.*
+* *기원과 봉헌 시기 모두 Meilichia (6th century B.C.) 가 Fortuna (4th century B.C.) 보다 더 오래되었다.*
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(경악하며)* "**뭐라고오오오옥!!!???**"
 
