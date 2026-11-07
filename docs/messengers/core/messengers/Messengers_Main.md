@@ -425,7 +425,9 @@
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(캑캑거리며)* "알았어! 알았다고! **그깟 물건 따위** 안 건드리면 되잖아!"
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** "괜찮아요, 실수는 누구나 할 수 있죠! 그런데 **그깟 물건 따위?**"
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *([운명의 수레바퀴](../../characters/hell/misfortune/Misfortune_Header.md#rota-fortunae)가 돌아가며)* "괜찮아요, 실수는 누구나 할 수 있죠..."
+>
+> *([운명의 수레바퀴](../../characters/hell/misfortune/Misfortune_Header.md#rota-fortunae)가 돌아가며)* "**그깟 물건 따위!?**"
 >
 > *(손에 힘을 줘서 목을 비틀며)* "**그 아가리 다시 지껄여 봐라, 썅년아!**"
 
@@ -433,7 +435,9 @@
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *([운명의 수레바퀴](../../characters/hell/misfortune/Misfortune_Header.md#rota-fortunae)가 돌아가며)* "호호호! 반성하는 것 같아서 보기 좋네요!"
 >
-> *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**나쁜 아이는 벌을 받아야겠죠?**"
+> *([운명의 수레바퀴](../../characters/hell/misfortune/Misfortune_Header.md#rota-fortunae)가 돌아가며)* "**나쁜 아이는 벌을 받아야겠죠?**"
+>
+> *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**와우, 약발이 씨발 존나 개쩌는데!!!**"
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(고통받으며)* "**끼야아아아아아아아악!!!**"
 
@@ -567,7 +571,7 @@
 * *하지만 "그것"은 파괴를 멈추지 않았다. "그것"은 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 걷어차고, [보스](../../characters/hell/boss/Boss_Header.md)를 잡아끌고 가기 시작했다.*
 * *절체절명의 순간, [보스](../../characters/hell/boss/Boss_Header.md)는 [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)로 할복하여 공허 폭풍을 소환했고, 빛이 어둠 속에서 비쳤다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(튕겨 나가며)* '이런 무자비한 놈들...'
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(튕겨 나가며)* '무자비한 놈들...'
 >
 > *(건축 자재에 생매장당하며)* "**크헉...**"
 
@@ -593,7 +597,7 @@
 
 * *한편, [연옥](./Messengers_Header.md#purgatorium)의 경계에서는...*
 
-> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 묶고 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)로 내리치면서 난도질하며)* "**야, 이 미친 새끼들아! 너네 돌아오면 내가 [날개](./Messengers_Header.md#wings)를 찢어 버릴 거야아악!!!**"
+> **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(악한 존재들을 휘감고 [코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)로 내리치면서 난도질하며)* "**야, 이 미친 새끼들아! 너네 돌아오면 내가 [날개](./Messengers_Header.md#wings)를 찢어 버릴 거야아악!!!**"
 >
 > *(악한 존재들을 [스피릿](../../characters/hell/misfortune/Misfortune_Header.md#spirit)으로 물어뜯고 [날개](./Messengers_Header.md#wings) 에너지를 강제로 주입하며)* "**이걸 너희 코에 박을 거야.**"
 >
@@ -605,7 +609,7 @@
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(들썩거리며)* "**으읍... 으으읍!!!**"
 
-> **[보스](../../characters/hell/boss/Boss_Header.md):** *(귀를 기울이며)* "**씨발... 좆됐다!!!** ...이렇게 말하시네요..."
+> **[보스](../../characters/hell/boss/Boss_Header.md):** *(들썩이는 건축 자재에 귀를 기울이며)* "**씨발... 좆됐다!!!** ...이렇게 말하시네요..."
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(철가면을 손으로 짚으며)* "하... 그냥 너랑 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 전선 지키고 있었으면 해결될 일이었잖아..."
 
