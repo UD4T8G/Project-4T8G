@@ -886,7 +886,7 @@
 >
 > *(볼을 잡히며)* "**뿌에엥!**"
 
-> **단테:** (무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 볼을 잡아당기며) "거기 뱀아," (**(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "흐지믈르그...") "이거 사자 맞아?"
+> **단테:** (무형성 小 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 볼을 잡아당기며) "거기 뱀아," (**(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "흐즈 믈르그...") "이거 사자 맞아?"
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽으며)* "장엄 복수 써서 사자들이라고 불러야 해, 꼬맹아."
 
@@ -896,14 +896,14 @@
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(방방 뛰며)* "**그건 또 무슨 뱀 같은 소리야!?**"
 
-* *둘 다 혼자 놔두면 사고 치는 걸로 유명했고, 둘은 참회의 길을 걸으며 서로에 대해 알아갔다.*
-* *단테는 충동적으로 전장에 뛰어들기도 했고, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테를 덮치기도 했다.*
+* *둘 다 혼자 놔두면 사고 치는 걸로 유명했고, 둘은 참회의 길을 걸으면서 서로에 대해 알아갔다.*
+* *단테는 [멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 훔쳐서 전장에 뛰어들기도 했고, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테를 공격하기도 했다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라타며)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 거두며)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
 
-> **단테:** "**이제 어쩔 거냐고! 아까 다리를 다쳐서 걷지도 못한다며!**"
+> **단테:** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 손가락에 걸고 돌리며)* "**이제 어쩔 거냐고! 다리를 다쳐서 걷지도 못하면서!**"
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위로 쓰러지며)* "업어 줘."
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라타며)* "업어 줘."
 
 > **단테:** *(경악하며)* "**뭐라고오오오옥!!!???**"
 
