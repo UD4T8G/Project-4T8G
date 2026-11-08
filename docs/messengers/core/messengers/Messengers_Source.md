@@ -25,17 +25,6 @@
   - *새겨진 우상(Graven Image)* -- 사명
 
 ```text
-The Gay Science, § 125
-  Habt ihr nicht von jenem tollen Menschen gehört, der am hellen [ Vormittage (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Vormittag (𝔊𝔒𝔄) ] eine Laterne anzündete, auf den Markt lief und unaufhörlich schrie: „Ich suche Gott! Ich suche Gott!“ -- Da dort gerade Viele von Denen [ zusammen standen (𝔇₁) / zusammenstanden (𝔐ᵖ, 𝔇₂, KGW) ], welche nicht an Gott glaubten, so erregte er ein [ grosses (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / großes (𝔊𝔒𝔄) ] Gelächter. Ist er denn verloren gegangen? sagte der Eine. Hat er sich verlaufen wie ein Kind? sagte der Andere. Oder hält er sich versteckt? Fürchtet er sich vor uns? Ist er zu Schiff gegangen? ausgewandert? -- so schrien und lachten sie durcheinander.
-  Der tolle Mensch sprang mitten unter sie und durchbohrte sie mit seinen Blicken. „Wohin ist Gott? rief er, ich will es euch sagen! Wir haben ihn [ getödtet (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getötet (𝔊𝔒𝔄) ], -- ihr und ich! Wir Alle sind seine Mörder! Aber wie haben wir dies [ gethan? (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan? (𝔊𝔒𝔄) ] Wie vermochten wir das Meer auszutrinken? Wer gab uns den Schwamm, um den ganzen Horizont wegzuwischen? Was [ thaten (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / taten (𝔊𝔒𝔄) ] wir, als wir diese Erde von ihrer Sonne losketteten? Wohin bewegt sie sich nun? Wohin bewegen wir uns? Fort von allen Sonnen? Stürzen wir nicht fortwährend? Und rückwärts, seitwärts, vorwärts, nach allen Seiten? [ Giebt es (𝔐ᵖ) / Gibt es (𝔇₁, 𝔇₂, KGW, 𝔊𝔒𝔄) ] noch ein Oben und ein Unten? Irren wir nicht wie durch ein unendliches Nichts? Haucht uns nicht der leere Raum an? Ist es nicht kälter geworden? Kommt nicht immerfort Nacht und mehr Nacht? Müssen nicht Laternen am [ Vormittage (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Vormittag (𝔊𝔒𝔄) ] angezündet werden? Hören wir noch nichts von dem Lärm der [ Todtengräber (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Totengräber (𝔊𝔒𝔄) ], welche Gott begraben? Riechen wir noch nichts von der göttlichen Verwesung? -- auch Götter verwesen! Gott ist [ todt! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / tot! (𝔊𝔒𝔄) ] Gott bleibt [ todt! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / tot! (𝔊𝔒𝔄) ] Und wir haben ihn [ getödtet! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getötet! (𝔊𝔒𝔄) ] Wie trösten wir uns, die Mörder aller Mörder? Das Heiligste und Mächtigste, was die Welt bisher [ besass (𝔇₁, 𝔇₂) / besaß (𝔐ᵖ, KGW, 𝔊𝔒𝔄) ], es ist unter unseren Messern verblutet, -- wer wischt dies Blut von uns ab? Welches Wasser vermöchte uns zu reinigen? Welche Sühnfeiern, welche heiligen Spiele werden wir erfinden müssen? Ist nicht die Grösse dieser [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] zu gross für uns? Müssen wir nicht selber zu Göttern werden, um nur ihrer würdig zu erscheinen? Es gab nie eine grössere [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ], -- und wer nun immer nach uns geboren wird, gehört um dieser [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] willen in eine höhere Geschichte, als alle Geschichte bisher war!“
-  Hier schwieg der tolle Mensch und sah wieder seine Zuhörer an: auch sie schwiegen und blickten befremdet auf ihn. Endlich warf er seine Laterne auf den Boden, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] sie in Stücke sprang und erlosch. „Ich komme zu früh, sagte er dann, ich bin noch nicht an der Zeit. Dies ungeheure [ Ereigniss (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Ereignis (𝔊𝔒𝔄) ] ist noch unterwegs und wandert, -- es ist noch nicht bis zu den Ohren der Menschen gedrungen. Blitz und Donner brauchen Zeit, das Licht der Gestirne braucht Zeit, [ Thaten (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Taten (𝔊𝔒𝔄) ] brauchen Zeit, auch nachdem sie [ gethan (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan (𝔊𝔒𝔄) ] sind, um gesehen und gehört zu werden. Diese [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] ist ihnen immer noch ferner, als die fernsten Gestirne, -- und doch haben sie dieselbe [ gethan!“ (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan!“ (𝔊𝔒𝔄) ]
-  Man erzählt noch, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] der tolle Mensch desselben Tages in verschiedene Kirchen eingedrungen sei und darin sein Requiem aeternam [ deo (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Deo (𝔊𝔒𝔄) ] angestimmt habe. Hinausgeführt und zur Rede gesetzt, habe er immer nur dies entgegnet: „Was sind denn diese Kirchen noch, wenn sie nicht die Grüfte und Grabmäler Gottes sind?“
-```
-
-* **즐거운 학문 "아직도 위와 아래가 존재하는가?"**
-  - 사자들 -- *위도 아래도 없는 새끼*
-
-```text
 4Q530 2 ii 2
   [...] וכען שרו [...] וצלו [...]
 Kawān, Text C:1-2
@@ -56,7 +45,7 @@ EPHESIANS 6:12
 ```
 
 * **영적 전쟁**
-  - [프리퀄](./Messengers_Main.md#prequel) -- 문장과 *악한 권세들*
+  - [프리퀄](./Messengers_Main.md#prequel) -- 문장, *악한 권세들*
 
 ```text
 1 ENOCH 15:8
@@ -66,10 +55,10 @@ EPHESIANS 6:12
 ```
 
 * **네피림의 최후**
-  - [프리퀄](./Messengers_Main.md#prequel) -- 문장과 *악한 영들*
+  - [프리퀄](./Messengers_Main.md#prequel) -- 문장, *악한 영들*
 * **MATTHEW 25:14-30**
   - [신성 모독](./Messengers_Main.md#blasphemy) -- "악하고 게으른 종", "땅에 묻어 둘 수 있으나"
-* **Majestic plural(장엄 복수)**
+* **Majestic plural (장엄 복수)**
   - [완곡어법](./Messengers_Main.md#euphemism) -- 인칭 대명사
 
 ```text
@@ -93,7 +82,7 @@ EPHESIANS 6:12
   - [완곡어법](./Messengers_Main.md#euphemism) -- "내가 반드시 네 [날개](./Messengers_Header.md#wings)를 네게서 빼앗아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)에게 주리라!"
 * **MATTHEW 25 달란트 비유**
   - [융합주의](./Messengers_Main.md#syncretism) -- "저는 제게 허락된 달란트를 제멋대로 깨뜨려 탕진했습니다... 그리고 저는 바깥 어두운 곳에 버려져 슬피 울며 이를 갈아야 합니다..."
-* **1 SAMUEL 4-5 Ichabod(영광이 떠났다)**
+* **1 SAMUEL 4-5 Ichabod (영광이 떠났다)**
   - [융합주의](./Messengers_Main.md#syncretism) -- "성령이 빠져나간 언약궤"
 
 ```text
@@ -214,6 +203,19 @@ Ecce Homo, Zarathustra § 1
   - **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)**
 * **Aphrodite와 Dionysos의 관계**
   - [재탄생](./Messengers_Main.md#rebirth) -- *(기병 전술)*
+
+```text
+The Gay Science, § 125
+  Habt ihr nicht von jenem tollen Menschen gehört, der am hellen [ Vormittage (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Vormittag (𝔊𝔒𝔄) ] eine Laterne anzündete, auf den Markt lief und unaufhörlich schrie: „Ich suche Gott! Ich suche Gott!“ -- Da dort gerade Viele von Denen [ zusammen standen (𝔇₁) / zusammenstanden (𝔐ᵖ, 𝔇₂, KGW) ], welche nicht an Gott glaubten, so erregte er ein [ grosses (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / großes (𝔊𝔒𝔄) ] Gelächter. Ist er denn verloren gegangen? sagte der Eine. Hat er sich verlaufen wie ein Kind? sagte der Andere. Oder hält er sich versteckt? Fürchtet er sich vor uns? Ist er zu Schiff gegangen? ausgewandert? -- so schrien und lachten sie durcheinander.
+  Der tolle Mensch sprang mitten unter sie und durchbohrte sie mit seinen Blicken. „Wohin ist Gott? rief er, ich will es euch sagen! Wir haben ihn [ getödtet (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getötet (𝔊𝔒𝔄) ], -- ihr und ich! Wir Alle sind seine Mörder! Aber wie haben wir dies [ gethan? (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan? (𝔊𝔒𝔄) ] Wie vermochten wir das Meer auszutrinken? Wer gab uns den Schwamm, um den ganzen Horizont wegzuwischen? Was [ thaten (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / taten (𝔊𝔒𝔄) ] wir, als wir diese Erde von ihrer Sonne losketteten? Wohin bewegt sie sich nun? Wohin bewegen wir uns? Fort von allen Sonnen? Stürzen wir nicht fortwährend? Und rückwärts, seitwärts, vorwärts, nach allen Seiten? [ Giebt es (𝔐ᵖ) / Gibt es (𝔇₁, 𝔇₂, KGW, 𝔊𝔒𝔄) ] noch ein Oben und ein Unten? Irren wir nicht wie durch ein unendliches Nichts? Haucht uns nicht der leere Raum an? Ist es nicht kälter geworden? Kommt nicht immerfort Nacht und mehr Nacht? Müssen nicht Laternen am [ Vormittage (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Vormittag (𝔊𝔒𝔄) ] angezündet werden? Hören wir noch nichts von dem Lärm der [ Todtengräber (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Totengräber (𝔊𝔒𝔄) ], welche Gott begraben? Riechen wir noch nichts von der göttlichen Verwesung? -- auch Götter verwesen! Gott ist [ todt! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / tot! (𝔊𝔒𝔄) ] Gott bleibt [ todt! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / tot! (𝔊𝔒𝔄) ] Und wir haben ihn [ getödtet! (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getötet! (𝔊𝔒𝔄) ] Wie trösten wir uns, die Mörder aller Mörder? Das Heiligste und Mächtigste, was die Welt bisher [ besass (𝔇₁, 𝔇₂) / besaß (𝔐ᵖ, KGW, 𝔊𝔒𝔄) ], es ist unter unseren Messern verblutet, -- wer wischt dies Blut von uns ab? Welches Wasser vermöchte uns zu reinigen? Welche Sühnfeiern, welche heiligen Spiele werden wir erfinden müssen? Ist nicht die Grösse dieser [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] zu gross für uns? Müssen wir nicht selber zu Göttern werden, um nur ihrer würdig zu erscheinen? Es gab nie eine grössere [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ], -- und wer nun immer nach uns geboren wird, gehört um dieser [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] willen in eine höhere Geschichte, als alle Geschichte bisher war!“
+  Hier schwieg der tolle Mensch und sah wieder seine Zuhörer an: auch sie schwiegen und blickten befremdet auf ihn. Endlich warf er seine Laterne auf den Boden, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] sie in Stücke sprang und erlosch. „Ich komme zu früh, sagte er dann, ich bin noch nicht an der Zeit. Dies ungeheure [ Ereigniss (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Ereignis (𝔊𝔒𝔄) ] ist noch unterwegs und wandert, -- es ist noch nicht bis zu den Ohren der Menschen gedrungen. Blitz und Donner brauchen Zeit, das Licht der Gestirne braucht Zeit, [ Thaten (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Taten (𝔊𝔒𝔄) ] brauchen Zeit, auch nachdem sie [ gethan (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan (𝔊𝔒𝔄) ] sind, um gesehen und gehört zu werden. Diese [ That (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Tat (𝔊𝔒𝔄) ] ist ihnen immer noch ferner, als die fernsten Gestirne, -- und doch haben sie dieselbe [ gethan!“ (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / getan!“ (𝔊𝔒𝔄) ]
+  Man erzählt noch, [ dass (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / daß (𝔊𝔒𝔄) ] der tolle Mensch desselben Tages in verschiedene Kirchen eingedrungen sei und darin sein Requiem aeternam [ deo (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Deo (𝔊𝔒𝔄) ] angestimmt habe. Hinausgeführt und zur Rede gesetzt, habe er immer nur dies entgegnet: „Was sind denn diese Kirchen noch, wenn sie nicht die Grüfte und Grabmäler Gottes sind?“
+```
+
+* **[ Giebt es (𝔐ᵖ) / Gibt es (𝔇₁, 𝔇₂, KGW, 𝔊𝔒𝔄) ] noch ein Oben und ein Unten? (아직도 위와 아래가 존재하는가?)**
+  - 사자들 -- *위도 아래도 없는 새끼*
+* **Requiem aeternam [ deo (𝔐ᵖ, 𝔇₁, 𝔇₂, KGW) / Deo (𝔊𝔒𝔄) ] (신에게 영원한 안식을)**
+  - **죽은 자를 위한 기도**
 
 ```text
 2 MACCABEES 12:44
