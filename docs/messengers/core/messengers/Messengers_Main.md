@@ -682,12 +682,12 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *([날개](./Messengers_Header.md#wings) 에너지를 주입받는다.)* "**이제는 나도 모르겠다!**"
 
-* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 통해 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus) 흉곽의 크루시블 안으로 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)를 흡수했다.*
+* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 통해 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus) 흉곽의 용광로 안으로 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)를 흡수했다.*
 * *[융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)가 파열될 때마다 네하르 디누르까지 서슴없이 퍼담았고, 이로 인해 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 그릇이 녹아내렸다.*
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(눈을 가리면서도 [날개](./Messengers_Header.md#wings) 에너지 주입을 멈추지 않는다.)* "**이러다가는 우리 모두 소멸하고 말 거야!**"
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(녹아내리는 크루시블을 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)으로 용접한다.)* "하하하... 소멸까지도 함께해 줘서 고마워, [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)..."
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(녹아내리는 용광로를 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)으로 용접한다.)* "하하하... 소멸까지도 함께해 줘서 고마워, [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)..."
 
 > **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(자신의 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)을 통해 철가면을 용접한다.)* "주인의 뜻을 따르겠습니다... 봉인을 끝까지 유지합니다!"
 
@@ -899,9 +899,9 @@
 * *둘 다 혼자 놔두면 사고 치는 걸로 유명했고, 둘은 참회의 길을 걸으면서 서로에 대해 알아갔다.*
 * *단테는 [멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 훔쳐서 전장에 뛰어들기도 했고, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테를 공격하기도 했다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 거둔다.)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 빼앗긴다.)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
 
-> **단테:** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 손가락에 걸고 돌린다.)* "**이제 어쩔 거냐고! 다리를 다쳐서 걷지도 못하면서!**"
+> **단테:** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole) 두 정을 바닥에 집어던진다.)* "**이제 어쩔 거냐고! 다리를 다쳐서 걷지도 못한다며!**"
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라탄다.)* "업어 줘."
 
