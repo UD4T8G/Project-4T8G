@@ -587,7 +587,7 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *(건축 자재를 더 얹는다.)* "하지만 [연옥](./Messengers_Header.md#purgatorium)의 경계에 안 계시길래 찾아오느라 고생 좀 했지요. 어디 보자... 조금 뒤면 악한 철거반이 [연옥](./Messengers_Header.md#purgatorium)의 경계로 쳐들어가겠군요."
 
-> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(태블릿을 작성한 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 비춰 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)에 담고 [심판의 화살](../../characters/purgatorium/buddy/Buddy_Header.md#judgment-bolt)을 쏘아올린다.)* "아, 그래? 걱정 마, 그건 [밀키](../../characters/purgatorium/milky/Milky_Header.md)한테 맡기면 되거든!"
+> **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(태블릿을 작성한 뒤, [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 비춰서 [심판의 화살](../../characters/purgatorium/buddy/Buddy_Header.md#judgment-bolt)에 압축 보관하고, [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus)에서 쏘아올린다.)* "아, 그래? 걱정 마, 그건 [밀키](../../characters/purgatorium/milky/Milky_Header.md)한테 맡기면 되거든!"
 >
 > *(들썩이는 건축 자재를 쳐다본다.)* "...그런데 저거 [밀키](../../characters/purgatorium/milky/Milky_Header.md) 아니야?"
 >
@@ -682,14 +682,14 @@
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *([날개](./Messengers_Header.md#wings) 에너지를 주입받는다.)* "**이제는 나도 모르겠다!**"
 
-* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 통해 [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus) 흉곽의 용광로 안으로 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)를 흡수했다.*
-* *[융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)가 파열될 때마다 네하르 디누르까지 서슴없이 퍼담았고, 이로 인해 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 그릇이 녹아내렸다.*
+* *[버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)의 안광을 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)에 비춰서 [심판의 화살](../../characters/purgatorium/buddy/Buddy_Header.md#judgment-bolt)에 압축 보관하고, [애퍼래터스](../../characters/purgatorium/buddy/Buddy_Header.md#apparatus) 흉곽의 용광로에 배치했다.*
+* *[융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)가 파열될 때마다 네하르 디누르까지 서슴없이 퍼담았고, 이로 인해 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)의 용광로가 녹아내렸다.*
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *(눈을 가리면서도 [날개](./Messengers_Header.md#wings) 에너지 주입을 멈추지 않는다.)* "**이러다가는 우리 모두 소멸하고 말 거야!**"
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** *(녹아내리는 용광로를 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)으로 용접한다.)* "하하하... 소멸까지도 함께해 줘서 고마워, [미스포춘](../../characters/hell/misfortune/Misfortune_Header.md)..."
 
-> **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(자신의 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)을 통해 철가면을 용접한다.)* "주인의 뜻을 따르겠습니다... 봉인을 끝까지 유지합니다!"
+> **[고트](../../characters/purgatorium/buddy/Buddy_Header.md#goat):** *(자신의 [성흔안](../../characters/purgatorium/buddy/Buddy_Header.md#stigmata-eyes)을 통해 철가면을 용접한다.)* "주인의 뜻을 따르겠습니다..."
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** *([아이기스](../../characters/hell/boss/Boss_Header.md#aegis)로 쏟아지는 공격을 빠르게 쳐낸다.)* "저는 시간을 좀 벌도록 하지요..."
 >

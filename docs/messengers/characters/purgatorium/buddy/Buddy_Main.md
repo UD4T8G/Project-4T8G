@@ -11,7 +11,8 @@
   - *그들은 선포적인 예사체를 선호하지만, 기도하거나 처음 보는 상대를 달래야 할 때에는 경어체를 사용한다.*
   - *그들은 사명을 경외하여 무거운 성격을 지니고 있지만, 가벼운 성격을 지닌 존재를 위해서 가벼워지기도 한다.*
   - *그들은 [고트](./Buddy_Header.md#goat)를 혈육처럼 아끼고, [고트](./Buddy_Header.md#goat)가 자신을 위해 희생할 때마다 극도의 고통을 품고 기도한다.*
-  - *그들은 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)과 [지옥](../../../core/messengers/Messengers_Header.md#hell)을 통틀어 가장 [천국](../../../core/messengers/Messengers_Header.md#heaven)의 [사자들](../../../core/messengers/Messengers_Header.md)처럼 생겼다.*
+  - *그들은 손목이 결손된 단면으로 공격할 수 있지만, 흩뿌려진 검은 산양유가 혈흔처럼 보여 기괴해진다.*
+  - *그들은 젖과 꿀이 흐르는 땅과 다름없기에 [연옥](../../../core/messengers/Messengers_Header.md#purgatorium)과 [지옥](../../../core/messengers/Messengers_Header.md#hell)을 통틀어 가장 [천국](../../../core/messengers/Messengers_Header.md#heaven)의 [사자들](../../../core/messengers/Messengers_Header.md)처럼 생겼다.*
   - *그들은 망자들이 보기에는 두려운 형상을 띠고 있기 때문에, 망자들을 달래느라 애를 먹곤 한다.*
 * *[고트](./Buddy_Header.md#goat)는 흑색 손과 적안의 [성흔안](./Buddy_Header.md#stigmata-eyes)으로 구성되어 있다.*
   - *그들은 목숨을 걸고 버디에게 충성하며, 버디 앞에서만 경어체를 사용한다.*
