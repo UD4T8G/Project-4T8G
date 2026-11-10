@@ -102,6 +102,12 @@ LUKE 22:26
 * **섬김과 겸손**
   - [완곡어법](./Messengers_Main.md#euphemism) -- "그 이끌고 있는 자는 그 시중들고 있는 자와도 같이 되리라!"
   - [위아래](./Messengers_Main.md#up-down) -- "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!"
+* **Ῥέα**
+  - [위아래](./Messengers_Main.md#up-down) -- "새겨진 우상(Graven Image) 엄마"
+* **Φιλύρα**
+  - [위아래](./Messengers_Main.md#up-down) -- "간음한 새엄마"
+* **Ἀμάλθεια**
+  - [위아래](./Messengers_Main.md#up-down) -- "염소 엄마"
 
 ```text
 BUKHARI 5057, MUSLIM 1066

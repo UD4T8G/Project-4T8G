@@ -147,7 +147,7 @@
 >
 > '저는 엄마가 많습니다. 새겨진 우상(Graven Image) 엄마, 간음한 새엄마, 염소 엄마...'
 >
-> '염소 엄마만 기억하시면 됩니다. 제가 들고 있는 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)는 그분의 가죽이랑 어쩌고 저쩌고로 만들었거든요.'
+> '염소 엄마만 기억하시면 됩니다. 제가 들고 있는 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)는 그분의 희생으로 탄생했거든요.'
 >
 > '제 무기들은 무저갱에서 연단되었습니다. 무저갱에서 구르고 [날개](./Messengers_Header.md#wings) 각성하는 건 뻔한 레퍼토리잖아요?'
 >
