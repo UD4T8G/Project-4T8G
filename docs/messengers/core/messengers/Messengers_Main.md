@@ -195,7 +195,7 @@
 * *주변의 악한 존재들은 모두 [날개](./Messengers_Header.md#wings)가 뜯긴 채 쓰러져 있었고, (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)는 섭식을 시도하기도 했다.*
 * *모든 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)가 해제되어 참수된 목을 수복하고 있었고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 하반신을 사용하지 못하고 있었다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)와 (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 주워 참수시키고, 더블 배럴 샷건 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개한 뒤, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 겨눈다.)* "**됐고, 이름부터 대!**"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)와 (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 참수하고, 더블 배럴 샷건 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개한 뒤, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)에게 겨눈다.)* "**됐고, 이름부터 대!**"
 >
 > *(글리치로 인해 머리를 부여잡는다.)* "고마우면 누나라고 부르든가... 으윽..."
 
@@ -269,6 +269,8 @@
 
 * *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군한다.*
 * *그런데 오늘따라 악한 존재들의 군악대가 너무 힙스터스러웠고, 다들 분위기에 휩쓸려 버렸다.*
+* *(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 (신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)와 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 참수하고 [홀스터](../../characters/purgatorium/milky/Milky_Header.md#holster)에 수납한다.*
+* *근거리 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole) 두 정은 [날개](./Messengers_Header.md#wings)를 전개하고, 원거리 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole) 두 정은 추진하여 날아오른다.*
 
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "분위기 달아오르네! 오늘은 나 혼자 해 볼 테니까 넌 잠깐 빠져 봐!"
 
@@ -277,8 +279,6 @@
 > **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "굳이 달랠 필요 없어 보이는데? 그리고 무슨 일이 생기면 네가 옮겨 버리면 되잖아!"
 
 > **[버디](../../characters/purgatorium/buddy/Buddy_Header.md):** "다들 나만 보면 무섭다고 얼어붙던데?"
-
-* *망자들 때문에 [연옥](./Messengers_Header.md#purgatorium)의 [날개](./Messengers_Header.md#wings)를 자주 사용할 수는 없지만, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 초공간도약, [버디](../../characters/purgatorium/buddy/Buddy_Header.md)는 포털을 보유하고 있다.*
 
 ---
 
@@ -543,7 +543,7 @@
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** "**좌표 조작?** 이거, 누군가는 치명상을 입겠군요... [밀키](../../characters/purgatorium/milky/Milky_Header.md) 씨, 여기서 이만 돌아가세요. 당신을 이곳에 데려온 건 전적으로 제 책임..."
 
-> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)와 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 꺼내 참수시키고 쌍날검 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개시킨 뒤, [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 막는다.)* "**피해... 죽음...**"
+> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)와 (파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 꺼내 참수시키고 쌍날검 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개한 뒤, [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 막는다.)* "**피해... 죽음...**"
 
 > **[보스](../../characters/hell/boss/Boss_Header.md):** "**[밀키](../../characters/purgatorium/milky/Milky_Header.md)... 씨?** 죄송합니다... [아스트라페](../../characters/hell/boss/Boss_Header.md#astrape)를 함부로 쓰면 안 됐는데..."
 
@@ -558,7 +558,7 @@
 
 * *[보스](../../characters/hell/boss/Boss_Header.md)가 돌아봤을 때는 이미 붉게 빛나는 뾰족한 바위가 눈앞까지 날아와 있었다. 하지만 무기를 꺼내기에는 이미 늦었고, 그는 [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 지켜야만 했기에 피할 수도 없었다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(비명을 지르며 (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 꺼내 참수시키고 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 꺼내 도검 형태로 전개시킨 뒤, 날아오는 뾰족한 바위를 베어 버린다.)* "**으아아아아아!**"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(비명을 지르며 (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 꺼내 참수시키고 도검 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 전개한 뒤, 날아오는 뾰족한 바위를 베어 버린다.)* "**으아아아아아!**"
 >
 > *(글리치가 튀며 관절이 반대로 꺾이고, 끝내 눈물을 터뜨린다.)* "오빠라는 것들이 다들 책임감만 강해 가지고... 가끔은 누나한테 기댈 줄도... 알아야지..."
 
@@ -743,7 +743,7 @@
 
 > **(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 뒤로 숨긴다.)* "**오히려 너희들이야말로 위선자들 아니야?**"
 >
-> *(케스토스 히마스 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개한 뒤 (위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 목에 리드 로프처럼 걸고 올라탄다.)* "**너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?**"
+> *(케스토스 히마스 형태의 [다이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개한 뒤, (위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 목에 리드 로프처럼 걸고 올라탄다.)* "**너희들이 그릇을 부수는 동안 우리는 형체를 버려 가며 그릇을 고치고 있었거든?**"
 >
 > *(티르소스 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)에 카두케우스 형태의 [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake) 두 마리를 엮어 티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개한다.)* "**이렇게 순수한 아이를 사지로 내몰고도 그런 말이 나와?**"
 
@@ -852,13 +852,13 @@
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** "아니야! 망자들이 안 찾아와서 놀기만 했..."
 
-> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 쥐어박는다.)* "**조용히 해에엣!**"
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 쥐어박는다.)* "**조용히 해애앳!**"
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(포춘에게 기어간다.)* "**끼잉! 끼잉!**"
 
 > **[포춘](../../characters/hell/misfortune/Misfortune_Header.md#fortune):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 품에 안는다.)* "글쎄요, 피조 세계에 무슨 일이라도 생긴 걸까요?"
 >
-> *([코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)에서 죄악이 흥건한 티르소스-카두케우스를 꺼내본다.)* "**하지만 명심하세요, 망자들의 발이 끊기는 것보다 더 위험했던 건 망자들이 갑자기 찾아오는 거였어요.**"
+> *([코르누코피아](../../characters/hell/misfortune/Misfortune_Header.md#cornucopia)에서 찢어진 리드 로프와 죄악이 흥건한 티르소스-카두케우스를 꺼내준다.)* "**하지만 명심하세요, 망자들의 발이 끊기는 것보다 더 위험했던 건 망자들이 갑자기 찾아오는 거였어요.**"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *((집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 받는다.)* "그건 또 무슨 소리야?"
 
@@ -896,31 +896,93 @@
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(방방 뛴다.)* "**그건 또 무슨 뱀 같은 소리야!?**"
 
-* *둘 다 혼자 놔두면 사고 치는 걸로 유명했고, 둘은 참회의 길을 걸으면서 서로에 대해 알아갔다.*
-* *단테는 [멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 훔쳐서 전장에 뛰어들기도 했고, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테를 공격하기도 했다.*
+* *나팔 소리가 울리고, 악한 권세와 악한 영들이 모두를 시험하기 위해 진군한다.*
+* *(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 (신축성 大) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)의 목에 리드 로프를 걸고 올라탄 뒤, 티르소스-카두케우스를 꺼낸다.*
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 빼앗긴다.)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
+> **단테:** "분위기 달아오르네! 오늘은 나 혼자 해 볼 테니까 넌 잠깐 빠져 봐!"
 
-> **단테:** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole) 두 정을 바닥에 집어던진다.)* "**이제 어쩔 거냐고! 다리를 다쳐서 걷지도 못한다며!**"
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** "됐고, 저것들은 내가 어떻게든 막아 볼 테니까 너는 뱀들이나 좀 달래 봐!"
 
-> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라탄다.)* "업어 줘."
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "**거짓되고 기만적인 신들의 시대에 거하였던 베르길리우스를 위해 기도합니다!**"
+
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(꼬리로 (집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 쥐어박는다.)* "**멍청아, 베르길리우스는 한참 전에 천국 갔잖아!**"
+
+* *(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 기병 전술은 [멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 사용하지 않았기 때문에 무형성을 안정적으로 제어할 수 있었다.*
+* *하지만 (무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 전투를 마치고 돌아온 뒤에도 어째서인지 무형성은 전혀 감소하지 않고 있었다.*
+
+> **단테:** *(투핸디드 소드 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)로 악한 존재들을 사냥한다.)* "**Jackpot!**"
+
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(악한 존재들의 공격을 쳐낸다.)* "**Royalguard!**"
+
+> **단테:** *(피스톨 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole) 두 정으로 악한 존재들을 사냥한다.)* "**And, Jackpot!**"
+
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "**Smokin' Sexy Style!!**"
+
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(머리를 부여잡으며 (신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 참수시킨다.)* "**지이이이랄들을 하고 자빠졌네!**"
+>
+> *(도검 형태의 [모노폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 전개한 뒤, [사태극](../../characters/purgatorium/milky/Milky_Header.md#sitaegeuk)을 발동시켜 공간을 벤다.)* "**My Power Shall be Absolute!**"
+
+> **단테:** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)에 맞아서 놓쳐버린다.)* "앗!"
+
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *([멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)을 수복시킨다.)* "야, 너 참 뱀 같다? 어떻게 하지 말라는 것만 골라서 하냐?"
+
+> **단테:** *(주머니에 손을 넣는다.)* "아까 네가 뱀들이나 달래보라며?"
+>
+> (무형성 中 [밀키](../../characters/purgatorium/milky/Milky_Header.md)의 볼을 잡아당긴다.) "알았어! 알았다고! **그깟 물건 따위** 안 건드리면 되잖아!"
+
+> **(무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테를 덮친다.)* "**그깟 물건 따위!? 난 방금 너 때문에 또 죽을 뻔했다고!**"
+
+> **단테:** *([밀키](../../characters/purgatorium/milky/Milky_Header.md)를 떼어 내려 안간힘을 쓴다.)* "**으아악! 이거 놔! 천사가 사람 잡는다!**"
+
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(한숨 쉰다.)* "에휴... 저걸 [버디](../../characters/purgatorium/buddy/Buddy_Header.md) 말고 누가 달래겠냐... **어라?**"
+
+> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(죄악을 쏟으며 쓰러진다.)* "**커헉... 파수꾼...**"
+
+> **단테:** *(숨을 몰아쉬며 쓰러진다.)* "**하아... 또 죽을 뻔했네...**"
+
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "설마 망자한테 진 거야?"
+
+> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(기절한다.)* "**[멀티폴](../../characters/purgatorium/milky/Milky_Header.md#multipole)... 신축...**"
+
+> **(파수꾼) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(꼬리로 (신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)를 수복시킨다.)* "**이런 젠장! 네가 참수되어 있을 줄은 몰랐네!**"
+
+> **(신축성 小) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(목을 꼬리로 더듬는다.)* "**이제 저걸 어떻게 수습할 건데? 지금은 [버디](../../characters/purgatorium/buddy/Buddy_Header.md)도 없잖아!**"
+
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "걱정 마, 저 악마 사냥꾼이 모든 것을 해결해 줄 거야!"
+
+> **단테:** *([스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)들을 노려본다.)* "와, 저런 뱀 같은 놈들... **방금 전까지 놀기만 했으면서!**"
+
+* *[스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)들은 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)에 들어갔고, 단테는 (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 등에 업은 채 참회의 길을 걸었다.*
+* *(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 무사히 깨어났으나 아무것도 할 수 없었고, 그만큼 단테의 속죄 기간은 늘어났다.*
+
+> **단테:** *(씩씩거린다.)* "내가 하필 왜 이런 사자를 만나서 고생이냐고..."
+
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "어허, 사자들이라고 해야지!"
+
+> **단테:** *(방방 뛴다.)* "**그거나 그거나 상관없잖아! 제발 나 좀 빨리 [천국](./Messengers_Header.md#heaven)에 보내 줘!**"
+
+> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(흐느적거린다.)* "**절대로... 미안... 내가...**"
+
+> **단테:** *((무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 다시 업는다.)* "**미안하면 다야? 내가 잘못했으니까 너는 무리하지나 마!**"
+
+* *단테의 속죄 기간 동안 (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 충분히 쉴 수 있었고, 두 존재는 서로에 대해 알아가기 시작했다.*
+* *둘 다 각자의 위치에서 혼자 놔두면 사고 치는 걸로 유명했기에, 이제는 서로를 혼자 놔두지 않게 되었다.*
+
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테에게 기댄다.)* "[천국](./Messengers_Header.md#heaven)에 간다면 뭐부터 하고 싶어?"
+
+> **단테:** *(고민한다.)* "나는... 그래, **데스스토커 독을 원없이 마시고 싶어!**"
+
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(기뻐한다.)* "**정말? 나도 옛날부터 원없이 마시는 게 소원이었는데!**"
+
+> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "이 새끼들은 데스스토커 독 마시다 죽어서 여기 온 건가?"
+
+> **단테:** *(일어난다.)* "그럼 내가 [천국](./Messengers_Header.md#heaven)에 도착한 뒤에 데스스토커 독 잔뜩 구해서 가져올게!"
+
+> **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라탄다.)* "정말? 그럼 나는 손님이니까 업어 줘!"
 
 > **단테:** *(경악한다.)* "**뭐라고오오오옥!!!???**"
 
 > **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "와, 뭐 저런 꽃뱀이 다 있나!"
-
-* *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 철부지였고, (무형성 中) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 뻔뻔했으며, (무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 재앙이었다.*
-* *[밀키](../../characters/purgatorium/milky/Milky_Header.md)는 길을 자주 잃었고, 무리해서 자주 다쳤으며, 그만큼 단테의 참회 기간이 늘어났다.*
-
-> **단테:** *(씩씩거린다.)* "내가 왜 하필 이런 사자를 만나서 고생이냐고..."
-
-> **(집착광) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake):** *(죽은 자를 위한 기도를 읽는다.)* "어허, 사자들이라고 해야지!"
-
-> **단테:** *(방방 뛴다.)* "**그거나 그거나 상관없잖아! 제발 나 좀 천국에 보내 줘!**"
-
-> **(무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(흐느적거린다.)* "**절대로... 미안... 내가...**"
-
-> **단테:** *((무형성 大) [밀키](../../characters/purgatorium/milky/Milky_Header.md)를 다시 업는다.)* "**미안하면 다야? 넌 무리하지나 마!**"
 
 * *[천국](./Messengers_Header.md#heaven)의 빛이 가까워지고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 단테의 등에서 내려와 주저앉았다.*
 * *단테는 [천국](./Messengers_Header.md#heaven)의 빛 앞에 섰고, [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 [천국](./Messengers_Header.md#heaven)의 그림자만 바라볼 뿐이었다.*
@@ -929,12 +991,12 @@
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(울먹인다.)* "나는... 여기까지야..."
 
-> **단테:** *(짜증 낸다.)* "아, 진짜 너무하네! 너 혼자서 돌아갈 수는 있어? 그냥 내가 여기 남으면 안 돼?"
+> **단테:** *(짜증 낸다.)* "아, 진짜 너무하네! 너 혼자서 돌아갈 수는 있겠어? 그냥 내가 여기 남으면 안 돼?"
 
 > **(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(억지로 웃어 보인다.)* "바보야! 너는... [천국](./Messengers_Header.md#heaven) 가야지! 데스스토커 독... 구해 주기로 약속했잖아...?"
 
 * *(무형성 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md)는 말을 끝까지 잇지 못하며 무너져 내리고 떨기 시작했다.*
-* *단테는 자신이 떠나면 당분간 이곳에 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 방치될 것이라는 사실을 직감적으로 느낄 수 있었다.*
+* *단테는 자신이 떠나면 [밀키](../../characters/purgatorium/milky/Milky_Header.md)가 이곳에 방치될 것임을 직감적으로 느낄 수 있었다.*
 
 > **단테:** "말도 끝까지 못 하는 게... 한 번 들어가면 못 나오잖아! **그럼 독은 어떻게 줘야하는데?**"
 
