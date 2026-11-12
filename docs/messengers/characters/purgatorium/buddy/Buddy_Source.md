@@ -18,7 +18,7 @@
   - [심판의 화살](./Buddy_Header.md#judgment-bolt)
 * **Vediovis 조각상(카피톨리누스 언덕에서 발굴된 조각상의 손과 머리 결손)**  
 **블레셋의 다곤(Zeus Arotrios) 신전에 모셔진 언약궤(둘째 날 아침에 머리와 손목이 끊어진 다곤)**
-  - [고트](./Buddy_Header.md#goat)와 [성흔안](./Buddy_Header.md#stigmata-eyes) -- 손과 머리
+  - [라아자젤](./Buddy_Header.md#la'azazel)과 [성흔안](./Buddy_Header.md#stigmata-eyes) -- 손과 머리
 * **십자가형**
   - [성흔안](./Buddy_Header.md#stigmata-eyes)
 * **[Project 4T8G](../../../../../README.md)**
@@ -74,7 +74,7 @@ Ov. Fast. 3.429–436
 **블레셋의 다곤 신전에 모셔진 언약궤(첫째 날 아침에 언약궤 앞에 엎드린 다곤)**
   - 버디 -- 무거운 성격
 * **염소(독립성과 고집)**
-  - [고트](./Buddy_Header.md#goat) -- 실리적인 성격
+  - [라아자젤](./Buddy_Header.md#la'azazel) -- 실리적인 성격
 * **유다 염소**  
 **암염소(Vediovis에게 바치는 제물)와 숫염소(Azazel에게 보내는 속죄 제물)의 서로 다른 성별**
-  - [고트](./Buddy_Header.md#goat) -- 성별
+  - [라아자젤](./Buddy_Header.md#la'azazel) -- 성별

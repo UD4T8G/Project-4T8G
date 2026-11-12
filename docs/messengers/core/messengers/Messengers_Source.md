@@ -178,12 +178,12 @@ Kawān, Text G:1-11
   - [재탄생](./Messengers_Main.md#rebirth) -- *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
 * **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**  
 **κεστός ἱμάς**
-  - **(미녀) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
+  - **(미스) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
 * **[Mater Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**
   - **(어머니) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
 * **[Dios Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**
 * **[Ἀστραπή](../../characters/hell/boss/Boss_Source.md)**
-  - **(하늘빛) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)**
+  - **(천광) [오피스](../../characters/purgatorium/milky/Milky_Header.md#ophis)**
 
 ```text
 1 ENOCH 71:14
@@ -206,7 +206,7 @@ Ecce Homo, Zarathustra § 1
 * **Übermensch**  
 **[Dionysos Meilichios](../../characters/purgatorium/milky/Milky_Source.md)**  
 **θύρσος**
-  - **(위버멘쉬) [스네이크](../../characters/purgatorium/milky/Milky_Header.md#snake)**
+  - **(위버멘쉬) [오피스](../../characters/purgatorium/milky/Milky_Header.md#ophis)**
 * **Aphrodite와 Dionysos의 관계**
   - [재탄생](./Messengers_Main.md#rebirth) -- *(기병 전술)*
 
@@ -244,6 +244,19 @@ The Gay Science, § 125
 
 * **365,000개의 눈**
   - [신곡](./Messengers_Main.md#comedy) -- "죽은 자를 위한 기도 365,000개"
+
+```text
+LA COMMEDIA DI DANTE ALIGHIERI Inf. I, 67-72
+  Non omo, omo già fui,
+  e li parenti miei furon lombardi,
+  mantoani per patrïa ambedui.
+  Nacqui sub Iulio, ancor che fosse tardi,
+  e vissi a Roma sotto 'l buono Augusto
+  nel tempo de li dèi falsi e bugiardi.
+```
+
+* **nel tempo de li dèi falsi e bugiardi (거짓되고 기만적인 신들의 시대에)**
+  - [신곡](./Messengers_Main.md#comedy) -- "**거짓되고 기만적인 신들의 시대에**"
 
 ```text
 1 ENOCH 41:9

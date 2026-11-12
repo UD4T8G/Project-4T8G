@@ -2,11 +2,11 @@
 
 | **Name** | 버디 |
 | :--- | :--- |
-| **Alias** | 베디오비스(버디), 유다 염소([고트](#goat)) |
+| **Alias** | 베디오비스(버디), 유다 염소([라아자젤](#la'azazel)) |
 | **Position** | [사자들](../../../core/messengers/Messengers_Header.md) |
 | **Department** | [연옥](../../../core/messengers/Messengers_Header.md#purgatorium) |
-| **Gender** | 중성(버디), 중성([고트](#goat)) |
-| **Age Group** | 청년기(버디), 중년기([고트](#goat)) |
+| **Gender** | 중성(버디), 중성([라아자젤](#la'azazel)) |
+| **Age Group** | 청년기(버디), 중년기([라아자젤](#la'azazel)) |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ---
 
-## goat
+## la'azazel
 
 * **해제**
   - 머리 앞의 [성흔안](#stigmata-eyes) 두 개를 내려놓고 철가면을 벗으면 머리가 소환수로 변한다.

@@ -43,10 +43,10 @@ Meilichioi(중성)
 
 * **셀리눈테 석비의 높은 훼손도**  
 **Euphemism(완곡어법)**
-  - 밀키 -- 무형성
+  - 밀키 -- 무형
   - 밀키 -- 연령대
 * **Meilichios**
-  - [스네이크](./Milky_Header.md#snake) -- 디자인
+  - [오피스](./Milky_Header.md#ophis) -- 디자인
 * **[Project 4T8G](../../../../../README.md)**
   - [사태극](./Milky_Header.md#sitaegeuk)
 * **Meilichia**
