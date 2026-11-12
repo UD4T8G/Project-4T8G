@@ -3,7 +3,7 @@
 | **Name** | 욕쟁이 할머니 |
 | :--- | :--- |
 | **Alias** | KNJ-BDHWBDEM급 README |
-| **Position** | 조리기능장, 제KNJ-BDHWBDEM차 세계 대전 종전의 영웅, 올림픽 통산 KNJ-BDHWBDEM개 대회 연속 전관왕 및 누적 KNJ-BDHWBDEM관왕 금메달리스트 |
+| **Position** | 조리기능장, 제4T8G차 세계 대전 종전의 영웅, 올림픽 통산 4T8G개 대회 연속 전관왕 및 누적 4T8G관왕 금메달리스트 |
 | **Department** | 욕쟁이 할머니 음식점 |
 | **Gender** | 여성 |
 | **Age Group** | 노년기 |
@@ -11,6 +11,19 @@
 ---
 
 ## body
+
+```text
+4 Taegeuk 8 Gua
+  ☯ -- Cross
+  ☰ -- Trinity
+  ☱ -- Ichthus
+  ☲ -- Fire
+  ☳ -- Swastika
+  ☴ -- Typhoon
+  ☵ -- Water
+  ☶ -- Bolt
+  ☷ -- Hexagram
+```
 
 * **세계관 아키텍처**
   - 모든 것의 거리와 상관없이 오감으로 모든 시뮬레이션 다중우주를 감시하여 양자 분해한다.
