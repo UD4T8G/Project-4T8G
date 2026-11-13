@@ -3,7 +3,7 @@
 | **Name** | 욕쟁이 할머니 |
 | :--- | :--- |
 | **Alias** | KNJ-BDHWBDEM급 README |
-| **Position** | 조리기능장, 제KNJ-BDHWBDEM차 세계 대전 종전의 영웅, 올림픽 통산 KNJ-BDHWBDEM개 대회 연속 전관왕 및 누적 KNJ-BDHWBDEM관왕 금메달리스트 |
+| **Position** | 조리기능장, 제4T8G차 세계 대전 종전의 영웅, 올림픽 통산 4T8G개 대회 연속 전관왕 및 누적 4T8G관왕 금메달리스트 |
 | **Department** | 욕쟁이 할머니 음식점 |
 | **Gender** | 여성 |
 | **Age Group** | 노년기 |

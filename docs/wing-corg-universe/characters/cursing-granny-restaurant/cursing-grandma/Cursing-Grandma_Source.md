@@ -1,4 +1,69 @@
-# Cursing Grandma Source
+---
+
+magic: "UDOC/1"
+
+caster_key: cursing_grandma
+
+values:
+  max_hp_default: 4T8G
+  dps_default: 4T8G
+  movement_speed_default: 4T8G
+  attack_speed_default: 4T8G
+  projectile_aoe_default: 4T8G
+  projectile_range_default: 4T8G
+  projectile_speed_default: 4T8G
+
+skills:
+  body:
+    tags: []
+    parts:
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        apply: { holder: target, source: max_hp, fixed: true }
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        effect: { stat: movement_speed }
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        effect: { stat: attack_speed }
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        effect: { stat: projectile_aoe }
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        effect: { stat: projectile_range }
+      - caster: cursing_grandma
+        targets: [ enemy ]
+        ratio: -4T8G
+        duration: 4T8G
+        tick: minimum
+        factor: 4T8G
+        effect: { stat: projectile_speed }
+
+bursts:
+  body_slam:
+    shots:
+      - { skill: body, windup: 0, recovery: 0, repeat: null }
 
 ---
 

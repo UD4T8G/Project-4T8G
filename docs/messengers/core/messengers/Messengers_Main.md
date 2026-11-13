@@ -978,6 +978,8 @@
 
 > **(에피테트) [오피스](../../characters/purgatorium/milky/Milky_Header.md#ophis):** *(죽은 자를 위한 기도를 읽는다.)* "이 새끼들은 데스스토커 독 마시다 뒤져서 여기 온 건가?"
 
+* *데스스토커 독은 경구독(Poison)이 아닌 주입독(Venom)이기 때문에 이론상으로는 섭취가 가능하다.*
+
 > **단테:** *(일어난다.)* "그럼 내가 [천국](./Messengers_Header.md#heaven)에서 데스스토커 독 잔뜩 구해서 가져올게!"
 
 > **(무형 小) [밀키](../../characters/purgatorium/milky/Milky_Header.md):** *(단테 위에 올라탄다.)* "정말? 그럼 나는 손님이니까 업어 줘!"

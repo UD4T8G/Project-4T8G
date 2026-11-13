@@ -42,14 +42,27 @@ Meilichioi(중성)
 ```
 
 * **셀리눈테 석비의 높은 훼손도**  
-**Euphemism(완곡어법)**
+**Euphemism (완곡어법)**  
+**Docetism (가현설)**
   - 밀키 -- 무형
-  - 밀키 -- 연령대
+  - 밀키 -- 소녀기
+* **Modalism (양태론)**
+  - (멀티모달리즘) [오피스](./Milky_Header.md#ophis)
+* **Tritheism (삼신론)**  
+**Subordinationism (종속론)**
+  - 밀키 -- [융합로](./Milky_Header.md#fusion-core)의 주인
+  - [오피스](./Milky_Header.md#ophis) -- [융합로](./Milky_Header.md#fusion-core)의 소환수
+* **Partialism (부분론)**
+  - [홀스터](./Milky_Header.md#holster)
+  - [멀티폴](./Milky_Header.md#multipole)
+* **monophysitism (단성론)**
+  - [융합로](./Milky_Header.md#fusion-core)
 * **Meilichios**
   - [오피스](./Milky_Header.md#ophis) -- 디자인
 * **[Project 4T8G](../../../../../README.md)**
   - [사태극](./Milky_Header.md#sitaegeuk)
 * **Meilichia**
   - 밀키 -- 별명
-* **고대 그리스의 종교 의식(일상적)**
+* **고대 그리스 종교 의식의 일상 침투**
   - 밀키 -- 가벼운 성격
+
