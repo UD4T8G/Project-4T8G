@@ -12,19 +12,6 @@
 
 ## body
 
-```text
-4 Taegeuk 8 Gua
-  ☯ -- Cross
-  ☰ -- Trinity
-  ☱ -- Ichthus
-  ☲ -- Fire
-  ☳ -- Swastika
-  ☴ -- Typhoon
-  ☵ -- Water
-  ☶ -- Bolt
-  ☷ -- Hexagram
-```
-
 * **세계관 아키텍처**
   - 모든 것의 거리와 상관없이 오감으로 모든 시뮬레이션 다중우주를 감시하여 양자 분해한다.
   - 모든 것의 출력과 상관없이 막아버리고, 실패한 시뮬레이션 다중우주를 양자 분해한다.

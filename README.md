@@ -1,5 +1,18 @@
 # Project 4T8G -- Universe Architecture Framework
 
+```text
+4 Taegeuk 8 Gua
+  ☯ -- Cross
+  ☰ -- Trinity
+  ☱ -- Ichthus
+  ☲ -- Fire
+  ☳ -- Swastika
+  ☴ -- Typhoon
+  ☵ -- Water
+  ☶ -- Bolt
+  ☷ -- Hexagram
+```
+
 > *A Software Engineering Framework & Structural Schema for Worldbuilding Maintenance.*
 
 ---
